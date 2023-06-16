@@ -1,0 +1,58 @@
+
+
+h1{
+    border: 1px black solid;
+    padding: 5px;
+    text-align: center;
+    font-size: 30px;
+    margin: 10px;
+
+}
+
+.g,.gg{
+    color: blue;
+}
+.o{
+    color: red;
+}
+.oo{
+    color:gold;
+}
+
+.l{
+    color: rgb(6, 170, 6);
+}
+.e{
+    color: rgb(246, 27, 34);
+}
+h2{
+    color: rgb(9, 141, 47);
+    font-size: 50px;
+}
+ 
+    
+p{
+    font-size: 20px;
+    font-style: italic;
+    color: rgb(188, 14, 218);
+    text-align: justify;
+}
+#heading{
+    color: rgb(15, 183, 224);
+    text-transform: lowercase;
+    width: 100px;
+    padding: 20px;
+    border: 10px solid rgb(25, 3, 3);
+
+}
+
+#m{
+    color: rgb(217, 94, 6);
+    text-align: justify;
+
+}
+.heading{
+    color: rgb(205, 50, 123);
+    font-size: 40px;
+    
+}
